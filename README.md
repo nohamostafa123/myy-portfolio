@@ -12,9 +12,9 @@ Check out the live demo of my portfolio here:
 - **Responsive Design**: Optimized for various screen sizes (mobile, tablet, desktop).
 - **Interactive UI**: Smooth animations and transitions.
 - **About Me**: A section dedicated to sharing more about myself and my experience.
-- **Portfolio Showcase**: Displays featured projects with descriptions, tech stack, and links.
+- **Projects**: Displays featured projects with descriptions, tech stack, and links.
 - **Dynamic Skills Section**: A section that visually represents my skills and expertise.
-- **Contact Form**: Visitors can reach out to me directly via a form.
+- **Contact Me**: Visitors can reach out to me directly via My acounts.
 
 
 ## 💻 Technologies Used
