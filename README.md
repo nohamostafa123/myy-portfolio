@@ -1,6 +1,6 @@
 # 🖥️ My Portfolio
 
-Welcome to my portfolio website! This project showcases my skills, projects, and experiences as a web developer.  Feel free to explore and learn more about me and my work!
+Welcome to my portfolio website! This project showcases my skills, projects, and experiences as a MEARN Stack developer.  Feel free to explore and learn more about me and my work!
 
 ## 🚀 Live Demo
 Check out the live demo of my portfolio here:  
